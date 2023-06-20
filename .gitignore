@@ -1,0 +1,19 @@
+# Ignore Django-related files
+/venv
+/staticfiles
+/media
+/db.sqlite3
+.env
+
+# Ignore Angular-related files
+/node_modules
+/dist
+
+# Ignore IDE files
+.vscode
+.idea
+*.iml
+
+# Ignore OS-generated files
+Thumbs.db
+.DS_Store
